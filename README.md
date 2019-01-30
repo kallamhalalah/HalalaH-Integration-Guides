@@ -3,7 +3,7 @@ Hello Developer,<br />
 HalalaH Platform is now open for some serious Business! Find your way within our technical documentation and start enabling your business with HalalaH payments methods. <br />For Mobile apps and Portals, enrich your client’s experience by simple Payment methods based on HalalaH standard QR code and Deep Links.
 
 
-#### EMV Code Standards [Guide](https://pages.github.com/)
+#### EMV Code Standards [Document](HalalaH%20QR%20Code%20Standard%20-%20Merchant-Presented%20Mode%20v1.2.pdf)
 
 #### Merchants Categories Code List [List](Merchants%20Categories%20Codes%20List.md)
 
