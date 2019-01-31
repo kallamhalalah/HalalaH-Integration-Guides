@@ -77,12 +77,15 @@ Empty Body
 - ###### Paid `HTTP Status Code == 200 - OK`
 ```
 {
- "status": 0, "message": "Ok", "data": {
- "orderID": “Reference Number String”,
- "amount": Float,
- "billNumber": “Bill Number String",
- "trxRef": “Transaction Reference in HalalaH String",
- "trxDate": "2019-01-30T12:02:06Z",
- "isPaid": true 
+ "status": 0,
+ "message": "Ok", 
+ "data": {
+  "orderID": “Reference Number String”,
+  "amount": Float,
+  "billNumber": “Bill Number String",
+  "trxRef": “Transaction Reference in HalalaH String",
+  "trxDate": "2019-01-30T12:02:06Z",
+  "isPaid": true 
+ }
 }
 ```
